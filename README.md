@@ -1,4 +1,4 @@
-# 🛍️ Simple E-commerce Marketplace (Spurtcommerce-Based)
+# 🛍️ Simple E-commerce Marketplace 
 
 A full-featured multi-vendor e-commerce platform built with **Node.js**, **TypeScript**, **Angular**, **React**, and **MySQL**. This solution includes separate dashboards for Admin, Vendor, and a storefront for Customers. Ideal for B2C and B2B marketplaces.
 
